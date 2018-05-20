@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  WinapiException.cpp
+  File.cpp
+  Example.cpp
+  CryptXor.cpp
+  CryptFile.cpp
+  Convert.cpp
+  CommandLine.cpp
+  Generating Code...
+  Example.vcxproj -> C:\Users\User\Desktop\Example\Debug\Example.exe
+  Example.vcxproj -> C:\Users\User\Desktop\Example\Debug\Example.pdb (Full PDB)
